@@ -1,0 +1,19 @@
+body {
+    background-color: #50c5b7;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    color: white;
+}
+
+img {
+    max-width: 500px;
+    display: block;
+    align-content: center;
+}
+
+.contact {
+    text-align: center;
+}
